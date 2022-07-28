@@ -87,6 +87,7 @@
 
 .bodyTabl {
     position: relative;
+    margin: 0 10px;
 }
 .beastOfFail {
     border: 2px solid darkcyan;

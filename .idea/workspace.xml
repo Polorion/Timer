@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="05dbb80c-c6d6-46b7-bbf6-3bd5fdbd6f9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Timer/Timer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Timer/Timer.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Timer/timer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Timer/timer.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/global.css" afterDir="false" />
     </list>
@@ -90,7 +88,7 @@
       <workItem from="1658900626864" duration="25710000" />
       <workItem from="1658986617121" duration="8667000" />
       <workItem from="1658996133650" duration="301000" />
-      <workItem from="1658996525323" duration="540000" />
+      <workItem from="1658996525323" duration="1340000" />
     </task>
     <servers />
   </component>
