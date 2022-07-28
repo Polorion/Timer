@@ -46,7 +46,7 @@ const Timer = (props) => {
           <div className={S.blockTitle}>ms</div>
         </div>
       </div>
-      <div>
+      <div className={S.btnBody}>
         <button
           onClick={() => {
             props.startOrStopTimer(startTimer);

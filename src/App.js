@@ -6,11 +6,11 @@ import "./global.css";
 function App() {
   return (
     <div className="App">
-      <div className={"r"}>
-        <CloclContainer />
-      </div>
       <div>
         <TimerContainer />
+      </div>
+      <div className={"r"}>
+        <CloclContainer />
       </div>
     </div>
   );

@@ -104,3 +104,14 @@ TD, TH {
 TH {
     background: #b0e0e6;
 }
+
+.btnBody {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.btnBody button  {
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
